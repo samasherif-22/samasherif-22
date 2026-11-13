@@ -17,17 +17,21 @@
 
 <h2 align="center">Skills & Tools</h2>
 
-<h3 align="center">🐞 Software Testing </h3>
+
+<h3 align="center">🐞 Software Testing & QA</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=selenium,postman,jira" />
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Zephyr-2D8CFF?style=flat-square" />
-  <img src="https://img.shields.io/badge/Xray-5C6BC0?style=flat-square" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zephyr-2684FF?style=for-the-badge" alt="Zephyr"/>
+  <img src="https://img.shields.io/badge/Xray-5C6BC0?style=for-the-badge" alt="Xray"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 </p>
+
 
 <h3 align="center">💻 Programming & Web Technologies</h3>
 
