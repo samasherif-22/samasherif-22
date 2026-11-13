@@ -13,10 +13,21 @@
 <p align="center">
   Passionate about software quality, exploring applications, finding issues, and making software better.
 </p>
-<h2 align="center">🚀 About Me</h2>
-I'm Sama Sherif, a Computer Science student at Capital University, majoring in Information Systems.
+h2 align="center">🛠️ Skills & Tools</h2>
 
-I'm passionate about Software Testing and Quality Assurance, with hands-on experience in manual testing, test case design, test execution, and bug reporting.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,postman,mysql,git,github,vscode,idea" />
+</p>
+
+<p align="center">
+  <b>Software Testing:</b><br/>
+  Manual Testing • Test Case Design • Test Execution • Bug Reporting • Functional Testing • Regression Testing
+</p>
+
+<p align="center">
+  <b>Tools:</b><br/>
+  Jira • Postman • Excel • GitHub
+</p>
 
 <!--
 **samasherif-22/samasherif-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
