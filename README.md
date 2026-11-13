@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/Alpha pattern #194629 variation #405917.jpg" alt="Star Girl" width="100%">
+  <img src="assets/img.jpg" alt="Star Girl" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Sama Sherif</h1>
