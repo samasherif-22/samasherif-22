@@ -1,4 +1,14 @@
-## Hi there 👋
+<p align="center">
+  <img src="./assets/Alpha pattern #194629 variation #405917.jpg" alt="Star Girl" width="100%">
+</p>
+
+<h1 align="center">Hi 👋, I'm Sama Sherif</h1>
+
+<h3 align="center">Software Tester</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=C9D1D9&center=true&vCenter=true&width=650&height=60&lines=Finding+Bugs%2C+Improving+Quality;Think+Like+a+Tester+%F0%9F%94%8D;Quality+Is+Not+An+Accident;Test.+Report.+Improve." alt="Typing SVG" />
+</p>
 
 <!--
 **samasherif-22/samasherif-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
