@@ -18,7 +18,7 @@
 <h2 align="center">Skills & Tools</h2>
 
 
-<h3 align="center">🐞 Software Testing 🐞 </h3>
+<h3 align="center">🐞Software Testing🐞 </h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium"/>
