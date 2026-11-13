@@ -14,20 +14,31 @@
   Passionate about software quality, exploring applications, finding issues, and making software better.
 </p>
 
-<h2 align="center"> Skills & Tools</h2>
+
+<h2 align="center">Skills & Tools</h2>
+
+<h3 align="center">🐞 Software Testing </h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,postman,mysql,git,github,vscode,idea" />
+  <img src="https://skillicons.dev/icons?i=selenium,postman,jira" />
 </p>
 
 <p align="center">
-  <b>Software Testing:</b><br/>
-  Manual Testing • Test Case Design • Test Execution • Bug Reporting • Functional Testing • Regression Testing
+  <img src="https://img.shields.io/badge/Zephyr-2D8CFF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Xray-5C6BC0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
 </p>
 
+<h3 align="center">💻 Programming & Web Technologies</h3>
+
 <p align="center">
-  <b>Tools:</b><br/>
-  Jira • Postman • Excel • GitHub
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp,php,html,css" />
+</p>
+
+<h3 align="center">🗄️ Database & Development Tools</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,idea,vscode" />
 </p>
 
 <h2 align="center">🤝 Connect With Me</h2>
