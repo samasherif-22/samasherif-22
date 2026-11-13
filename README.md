@@ -13,7 +13,8 @@
 <p align="center">
   Passionate about software quality, exploring applications, finding issues, and making software better.
 </p>
-h2 align="center">🛠️ Skills & Tools</h2>
+
+<h2> align="center">🛠️ Skills & Tools</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,postman,mysql,git,github,vscode,idea" />
@@ -27,6 +28,18 @@ h2 align="center">🛠️ Skills & Tools</h2>
 <p align="center">
   <b>Tools:</b><br/>
   Jira • Postman • Excel • GitHub
+</p>
+
+<h2 align="center">🤝 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://github.com/samasherif-22">
+    <img src="https://skillicons.dev/icons?i=github" height="45"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sama-sherif-elsayed">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+  </a>
 </p>
 
 <!--
