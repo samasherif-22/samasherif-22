@@ -14,7 +14,7 @@
   Passionate about software quality, exploring applications, finding issues, and making software better.
 </p>
 
-<h2> align="center">🛠️ Skills & Tools</h2>
+<h2 align="center"> Skills & Tools</h2>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,postman,mysql,git,github,vscode,idea" />
